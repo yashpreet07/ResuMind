@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ResuMate.iml" filepath="$PROJECT_DIR$/.idea/ResuMate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ResuMind.iml" filepath="$PROJECT_DIR$/.idea/ResuMind.iml" />
     </modules>
   </component>
 </project>
